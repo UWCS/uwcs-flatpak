@@ -1,0 +1,15 @@
+#!/bin/bash
+
+version_file="$HOME/flatpak/version"
+
+if [ -f "$version_file" ]; then
+
+	version=$(< $version_file)
+	echo "Current Version is $version"
+
+fi
+
+
+read -p "New Version ID: " new_version
+
+echo "$new_version" > version_file

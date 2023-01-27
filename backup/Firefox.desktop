@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_GB]=
+Comment=
+Exec=/dcs/guest/compsoc/scripts/maintainance/start-tmp "flatpak run org.mozilla.firefox"
+GenericName[en_GB]=
+GenericName=
+Icon=firefox
+MimeType=
+Name[en_GB]=Firefox
+Name=Firefox
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

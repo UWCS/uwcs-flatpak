@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_GB]=
+Comment=
+Exec=/dcs/guest/compsoc/scripts/maintainance/start-tmp "flatpak run com.valvesoftware.Steam"
+GenericName[en_GB]=
+GenericName=
+Icon=/dcs/guest/compsoc/flatpak/flatpak/app/com.valvesoftware.Steam/current/active/export/share/icons/hicolor/256x256/apps/com.valvesoftware.Steam.png
+MimeType=
+Name[en_GB]=Steam
+Name=Steam
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

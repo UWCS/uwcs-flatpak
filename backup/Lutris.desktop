@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_GB]=
+Comment=
+Exec=/dcs/guest/compsoc/scripts/maintainance/start-tmp "flatpak run net.lutris.Lutris"
+GenericName[en_GB]=
+GenericName=
+Icon=/dcs/guest/compsoc/flatpak/flatpak/app/net.lutris.Lutris/current/9c10163b7fc0895e76a4053cde5e81fbf90ef91e38ba02eac55f486fbd8f4ace/export/share/icons/hicolor/scalable/apps/net.lutris.Lutris.svg
+MimeType=
+Name[en_GB]=Lutris
+Name=Lutris
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

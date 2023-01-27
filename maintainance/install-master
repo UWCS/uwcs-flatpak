@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "Creating master flatpak directories..."
+mkdir -p $HOME/flatpak/flatpak
+mkdir -p $HOME/flatpak/.var
+
+mkdir -p $HOME/flatpak/Games
+
+echo "BWRAP init..."
+cd "$(dirname "$0")"
+./start-master $PWD/bwrap/install-master

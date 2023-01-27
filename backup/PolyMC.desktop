@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_GB]=
+Comment=
+Exec=/dcs/guest/compsoc/scripts/maintainance/start-tmp "flatpak run org.polymc.PolyMC"
+GenericName[en_GB]=
+GenericName=
+Icon=/dcs/guest/compsoc/flatpak/flatpak/app/org.polymc.PolyMC/current/active/export/share/icons/hicolor/scalable/apps/org.polymc.PolyMC.svg
+MimeType=
+Name[en_GB]=PolyMC
+Name=PolyMC
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

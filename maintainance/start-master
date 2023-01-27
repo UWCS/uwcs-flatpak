@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bwrap --bind / / --dev-bind /dev /dev --bind $HOME/flatpak/.var $HOME/.var --bind $HOME/flatpak/flatpak $HOME/.local/share/flatpak --bind $HOME/flatpak/Games $HOME/Games "$1"

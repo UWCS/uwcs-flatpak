@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_GB]=
+Comment=
+Exec=/dcs/guest/compsoc/scripts/maintainance/start-tmp "flatpak run com.heroicgameslauncher.hgl"
+GenericName[en_GB]=
+GenericName=
+Icon=/dcs/guest/compsoc/flatpak/flatpak/app/com.heroicgameslauncher.hgl/current/active/export/share/icons/hicolor/128x128/apps/com.heroicgameslauncher.hgl.png
+MimeType=
+Name[en_GB]=Heroic Games Launcher
+Name=Heroic Games Launcher
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
