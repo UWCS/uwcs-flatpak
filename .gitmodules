@@ -1,0 +1,3 @@
+[submodule "nvidia-force-comp-pipeline"]
+	path = nvidia-force-comp-pipeline
+	url = https://github.com/AlexWright1324/nvidia-force-comp-pipeline
