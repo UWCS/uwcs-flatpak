@@ -1,3 +1,4 @@
 #!/bin/bash
 
 rm -rf /var/tmp/$USER-flatpak/.var/*
+rm -rf /var/tmp/compsoc-firefox/*

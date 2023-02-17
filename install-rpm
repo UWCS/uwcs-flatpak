@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir -p ~/rpm
+cd ~/rpm
+yumdownloader --resolve $1
+for i in *.rpm; do rpm2cpio $i | cpio -id; done
+rm *.rpm

@@ -9,4 +9,4 @@ flatpak install flathub runtime/com.valvesoftware.Steam.CompatibilityTool.Proton
 flatpak install flathub net.lutris.Lutris/x86_64/stable -y --user
 flatpak install flathub org.mozilla.firefox/x86_64/stable -y --user
 flatpak install flathub org.polymc.PolyMC/x86_64/stable -y --user
-flatpak install flathub com.heroicgameslauncher.hgl/x86_64/stable -y --user
+#flatpak install flathub com.heroicgameslauncher.hgl/x86_64/stable -y --user
